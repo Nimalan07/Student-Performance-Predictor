@@ -46,16 +46,3 @@ To set up and run this project on your local machine, please follow these steps.
 5.  Click the "Run Prediction" button to see the results.
 
 ---
-
-## ## Project File Structure
-
-For the application to work correctly, your project folder should be organized as follows:
-Student Performance System/
-├── app.py
-├── requirements.txt
-├── README.md
-│
-└───Sample-Datasets/
-   ├── final_modified_attendance.csv
-   ├── final_modified_ia1.csv
-   └─ final_modified_ia2.csv
